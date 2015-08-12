@@ -2,6 +2,7 @@
  background-color: MediumSlateBlue;
  height: 400px;
  width: 100%;
+ align-self: center;
 }
 
 .profile-pic {
